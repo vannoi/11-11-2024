@@ -1,0 +1,6 @@
+D:\nam3\ADONET\tailieu\11-11-2024\Bai_1_11\DAL\bin\Debug\DAL.dll
+D:\nam3\ADONET\tailieu\11-11-2024\Bai_1_11\DAL\bin\Debug\DAL.pdb
+D:\nam3\ADONET\tailieu\11-11-2024\Bai_1_11\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\nam3\ADONET\tailieu\11-11-2024\Bai_1_11\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\nam3\ADONET\tailieu\11-11-2024\Bai_1_11\DAL\obj\Debug\DAL.dll
+D:\nam3\ADONET\tailieu\11-11-2024\Bai_1_11\DAL\obj\Debug\DAL.pdb
